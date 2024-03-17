@@ -1,3 +1,10 @@
-![resistor_blue_calculator](https://user-images.githubusercontent.com/68897925/144713252-c00d4701-5818-42a2-a697-c9768152b1f5.png)
+![Main View](extra_resources/main_view.png)
+
 # ResistorColorCodeCalculator
-## It calculates resistance for a 4 band resistor
+
+
+![Central View](extra_resources/menu_view.png)
+
+![Resistor Value](extra_resources/resistor_value_example.png)
+
+## Can be used to calculate resistance for a 4 band resistor
